@@ -1,0 +1,15 @@
+C:\Code\sonarlint-visusalstudio-branchaware-sampleprojects\src\BranchAwareSample-2022\BranchAwareSamples\SampleProject\obj\Debug\net7.0\SampleProject.csproj.AssemblyReference.cache
+C:\Code\sonarlint-visusalstudio-branchaware-sampleprojects\src\BranchAwareSample-2022\BranchAwareSamples\SampleProject\obj\Debug\net7.0\SampleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\sonarlint-visusalstudio-branchaware-sampleprojects\src\BranchAwareSample-2022\BranchAwareSamples\SampleProject\obj\Debug\net7.0\SampleProject.AssemblyInfoInputs.cache
+C:\Code\sonarlint-visusalstudio-branchaware-sampleprojects\src\BranchAwareSample-2022\BranchAwareSamples\SampleProject\obj\Debug\net7.0\SampleProject.AssemblyInfo.cs
+C:\Code\sonarlint-visusalstudio-branchaware-sampleprojects\src\BranchAwareSample-2022\BranchAwareSamples\SampleProject\obj\Debug\net7.0\SampleProject.csproj.CoreCompileInputs.cache
+C:\Code\sonarlint-visusalstudio-branchaware-sampleprojects\src\BranchAwareSample-2022\BranchAwareSamples\SampleProject\bin\Debug\net7.0\SampleProject.exe
+C:\Code\sonarlint-visusalstudio-branchaware-sampleprojects\src\BranchAwareSample-2022\BranchAwareSamples\SampleProject\bin\Debug\net7.0\SampleProject.deps.json
+C:\Code\sonarlint-visusalstudio-branchaware-sampleprojects\src\BranchAwareSample-2022\BranchAwareSamples\SampleProject\bin\Debug\net7.0\SampleProject.runtimeconfig.json
+C:\Code\sonarlint-visusalstudio-branchaware-sampleprojects\src\BranchAwareSample-2022\BranchAwareSamples\SampleProject\bin\Debug\net7.0\SampleProject.dll
+C:\Code\sonarlint-visusalstudio-branchaware-sampleprojects\src\BranchAwareSample-2022\BranchAwareSamples\SampleProject\bin\Debug\net7.0\SampleProject.pdb
+C:\Code\sonarlint-visusalstudio-branchaware-sampleprojects\src\BranchAwareSample-2022\BranchAwareSamples\SampleProject\obj\Debug\net7.0\SampleProject.dll
+C:\Code\sonarlint-visusalstudio-branchaware-sampleprojects\src\BranchAwareSample-2022\BranchAwareSamples\SampleProject\obj\Debug\net7.0\refint\SampleProject.dll
+C:\Code\sonarlint-visusalstudio-branchaware-sampleprojects\src\BranchAwareSample-2022\BranchAwareSamples\SampleProject\obj\Debug\net7.0\SampleProject.pdb
+C:\Code\sonarlint-visusalstudio-branchaware-sampleprojects\src\BranchAwareSample-2022\BranchAwareSamples\SampleProject\obj\Debug\net7.0\SampleProject.genruntimeconfig.cache
+C:\Code\sonarlint-visusalstudio-branchaware-sampleprojects\src\BranchAwareSample-2022\BranchAwareSamples\SampleProject\obj\Debug\net7.0\ref\SampleProject.dll
