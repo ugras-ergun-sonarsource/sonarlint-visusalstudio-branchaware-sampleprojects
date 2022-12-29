@@ -1,0 +1,1 @@
+# sonarlint-visusalstudio-branchaware-sampleprojects
