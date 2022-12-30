@@ -3,7 +3,7 @@ on:
   push:
     branches:
       - main
-      - orphan_branch
+      - branch-child
   pull_request:
     types: [opened, synchronize, reopened]
 jobs:
