@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\code\\sonarlint-visusalstudio-branchaware-sampleprojects\\src\\BranchAwareSample-2022\\BranchAwareSamples\\SampleProject\\SampleProject.csproj": {}
+    "C:\\Code\\sonarlint-visusalstudio-branchaware-sampleprojects\\src\\BranchAwareSample-2022\\BranchAwareSamples\\SampleProject\\SampleProject.csproj": {}
   },
   "projects": {
-    "C:\\code\\sonarlint-visusalstudio-branchaware-sampleprojects\\src\\BranchAwareSample-2022\\BranchAwareSamples\\SampleProject\\SampleProject.csproj": {
+    "C:\\Code\\sonarlint-visusalstudio-branchaware-sampleprojects\\src\\BranchAwareSample-2022\\BranchAwareSamples\\SampleProject\\SampleProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\code\\sonarlint-visusalstudio-branchaware-sampleprojects\\src\\BranchAwareSample-2022\\BranchAwareSamples\\SampleProject\\SampleProject.csproj",
+        "projectUniqueName": "C:\\Code\\sonarlint-visusalstudio-branchaware-sampleprojects\\src\\BranchAwareSample-2022\\BranchAwareSamples\\SampleProject\\SampleProject.csproj",
         "projectName": "SampleProject",
-        "projectPath": "C:\\code\\sonarlint-visusalstudio-branchaware-sampleprojects\\src\\BranchAwareSample-2022\\BranchAwareSamples\\SampleProject\\SampleProject.csproj",
+        "projectPath": "C:\\Code\\sonarlint-visusalstudio-branchaware-sampleprojects\\src\\BranchAwareSample-2022\\BranchAwareSamples\\SampleProject\\SampleProject.csproj",
         "packagesPath": "C:\\Users\\ugras.ergun\\.nuget\\packages\\",
-        "outputPath": "C:\\code\\sonarlint-visusalstudio-branchaware-sampleprojects\\src\\BranchAwareSample-2022\\BranchAwareSamples\\SampleProject\\obj\\",
+        "outputPath": "C:\\Code\\sonarlint-visusalstudio-branchaware-sampleprojects\\src\\BranchAwareSample-2022\\BranchAwareSamples\\SampleProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ugras.ergun\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
