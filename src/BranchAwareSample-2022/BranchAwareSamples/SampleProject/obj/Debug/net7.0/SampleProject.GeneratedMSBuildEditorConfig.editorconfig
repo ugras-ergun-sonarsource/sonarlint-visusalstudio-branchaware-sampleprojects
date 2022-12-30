@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SampleProject
-build_property.ProjectDir = C:\Code\sonarlint-visusalstudio-branchaware-sampleprojects\src\BranchAwareSample-2022\BranchAwareSamples\SampleProject\
+build_property.ProjectDir = C:\code\sonarlint-visusalstudio-branchaware-sampleprojects\src\BranchAwareSample-2022\BranchAwareSamples\SampleProject\

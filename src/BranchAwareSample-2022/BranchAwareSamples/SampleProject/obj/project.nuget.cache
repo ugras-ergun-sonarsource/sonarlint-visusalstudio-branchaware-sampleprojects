@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gVg9j8WEFvejDlFMZRRm/juTNTaqc59vTXhYLYJNYrkf2nj15KBQPg5ApK1B4vBmTn9thaBWnoZDHuyAgXS02A==",
+  "dgSpecHash": "nZZXkmrZMmRkNrGX06ZyJ+jO8UB8JziI3CBDqnYuWoo1a7XqRFA7/pNxMs43+qA5hRFB0m3z54tkw/iXyb5CYw==",
   "success": true,
-  "projectFilePath": "C:\\Code\\sonarlint-visusalstudio-branchaware-sampleprojects\\src\\BranchAwareSample-2022\\BranchAwareSamples\\SampleProject\\SampleProject.csproj",
+  "projectFilePath": "C:\\code\\sonarlint-visusalstudio-branchaware-sampleprojects\\src\\BranchAwareSample-2022\\BranchAwareSamples\\SampleProject\\SampleProject.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Code\\sonarlint-visusalstudio-branchaware-sampleprojects\\src\\BranchAwareSample-2022\\BranchAwareSamples\\SampleProject\\SampleProject.csproj": {}
+    "C:\\code\\sonarlint-visusalstudio-branchaware-sampleprojects\\src\\BranchAwareSample-2022\\BranchAwareSamples\\SampleProject\\SampleProject.csproj": {}
   },
   "projects": {
-    "C:\\Code\\sonarlint-visusalstudio-branchaware-sampleprojects\\src\\BranchAwareSample-2022\\BranchAwareSamples\\SampleProject\\SampleProject.csproj": {
+    "C:\\code\\sonarlint-visusalstudio-branchaware-sampleprojects\\src\\BranchAwareSample-2022\\BranchAwareSamples\\SampleProject\\SampleProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Code\\sonarlint-visusalstudio-branchaware-sampleprojects\\src\\BranchAwareSample-2022\\BranchAwareSamples\\SampleProject\\SampleProject.csproj",
+        "projectUniqueName": "C:\\code\\sonarlint-visusalstudio-branchaware-sampleprojects\\src\\BranchAwareSample-2022\\BranchAwareSamples\\SampleProject\\SampleProject.csproj",
         "projectName": "SampleProject",
-        "projectPath": "C:\\Code\\sonarlint-visusalstudio-branchaware-sampleprojects\\src\\BranchAwareSample-2022\\BranchAwareSamples\\SampleProject\\SampleProject.csproj",
+        "projectPath": "C:\\code\\sonarlint-visusalstudio-branchaware-sampleprojects\\src\\BranchAwareSample-2022\\BranchAwareSamples\\SampleProject\\SampleProject.csproj",
         "packagesPath": "C:\\Users\\ugras.ergun\\.nuget\\packages\\",
-        "outputPath": "C:\\Code\\sonarlint-visusalstudio-branchaware-sampleprojects\\src\\BranchAwareSample-2022\\BranchAwareSamples\\SampleProject\\obj\\",
+        "outputPath": "C:\\code\\sonarlint-visusalstudio-branchaware-sampleprojects\\src\\BranchAwareSample-2022\\BranchAwareSamples\\SampleProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ugras.ergun\\AppData\\Roaming\\NuGet\\NuGet.Config",
