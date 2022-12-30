@@ -1,13 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
-
+﻿using Microsoft.AspNetCore.Mvc;
 
 namespace SampleProject.Taint
 {
+    //Taint should be visible in branch-child
     public class ChildBranchTaintController : Controller
     {
         public ActionResult Index()
