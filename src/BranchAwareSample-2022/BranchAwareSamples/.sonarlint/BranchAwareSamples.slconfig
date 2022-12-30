@@ -1,0 +1,15 @@
+{
+  "ServerUri": "https://sonarcloud.io/",
+  "Organization": {
+    "Key": "ugras-ergun-sonarsource",
+    "Name": "Uğraş Ergün"
+  },
+  "ProjectKey": "ugras-ergun-sonarsource_sonarlint-visusalstudio-branchaware-sampleprojects",
+  "ProjectName": "sonarlint-visusalstudio-branchaware-sampleprojects",
+  "Profiles": {
+    "CSharp": {
+      "ProfileKey": "AYVegLHQ6gqNqqHsfNaf",
+      "ProfileTimestamp": "2022-12-21T10:42:51Z"
+    }
+  }
+}
