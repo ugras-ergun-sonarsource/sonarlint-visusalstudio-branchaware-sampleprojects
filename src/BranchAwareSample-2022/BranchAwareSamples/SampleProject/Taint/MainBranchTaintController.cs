@@ -22,39 +22,5 @@ namespace SampleProject.Taint
 
             return Content("File " + fileName + " deleted");
         }
-
-        // Flow 1
-        public ActionResult DeleteAnotherFile(string fileName)
-        {
-            IntermediateMethod(fileName);
-
-            return Content("1. File " + fileName + " deleted");
-        }
-
-        // Flow 2
-        public ActionResult DeleteAnotherFile2(string fileName)
-        {
-            IntermediateMethod(fileName);
-
-            return Content("2. File " + fileName + " deleted");
-        }
-
-        // Flow 3
-        public ActionResult DeleteAnotherFile3(string fileName)
-        {
-            IntermediateMethod(fileName);
-
-            return Content("3. File " + fileName + " deleted");
-        }
-
-        private void IntermediateMethod(string fileName)
-        {
-            InternalDeleteFile(fileName);
-        }
-
-        private void InternalDeleteFile(string fileName)
-        {
-            System.IO.File.Delete(fileName); // Noncompliant
-        }
     }
 }
