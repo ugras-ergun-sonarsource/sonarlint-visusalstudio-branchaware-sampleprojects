@@ -1,5 +1,4 @@
-﻿
-namespace SampleProject.Supressions
+﻿namespace SampleProject.Supressions
 {
     internal class Supressions
     {
